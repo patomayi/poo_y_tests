@@ -2,7 +2,7 @@
 
 Este repositorio contiene la resolución de la serie de ejercicios sobre clases, objetos y métodos en Java, junto con sus respectivas pruebas unitarias automatizadas utilizando JUnit 5.
 
-## 🚀 Índice de Ejercicios y Guía de Ejecución
+## Índice de Ejercicios y Guía de Ejecución
 
 | # | Ejercicio | Código Fuente | Pruebas Unitarias | Breve Descripción | Parámetro para Copiar y Pegar (Input) |
 | :--- | :--- | :---: | :---: | :--- | :--- |

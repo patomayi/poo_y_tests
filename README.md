@@ -6,15 +6,15 @@ Este repositorio contiene la resolución de la serie de ejercicios sobre clases,
 
 | # | Ejercicio | Código Fuente | Pruebas Unitarias |
 |---|---|---|---|
-| 1 | Usuari | [Solution01.java](./src/Solution01.java) | [Solution01Test.java](./test/Solution01Test.java) |
-| 2 | Post | [Solution02.java](./src/Solution02.java) | [Solution02Test.java](./test/Solution02Test.java) |
-| 3 | FunctionGame | [Solution03.java](./src/Solution03.java) | [Solution03Test.java](./test/Solution03Test.java) |
-| 4 | Notas | [Solution04.java](./src/Solution04.java) | [Solution04Test.java](./test/Solution04Test.java) |
-| 5 | Cotxe | [Solution05.java](./src/Solution05.java) | [Solution05Test.java](./test/Solution05Test.java) |
-| 6 | PostsStream | [Solution06.java](./src/Solution06.java) | [Solution06Test.java](./test/Solution06Test.java) |
-| 7 | FunctionGame2 | [Solution07.java](./src/Solution07.java) | [Solution07Test.java](./test/Solution07Test.java) |
-| 8 | Book | [Solution08.java](./src/Solution08.java) | [Solution08Test.java](./test/Solution08Test.java) |
-| 9 | Leds | [Solution09.java](./src/Solution09.java) | [Solution09Test.java](./test/Solution09Test.java) |
+| 1 | Usuari | [Solution1.java](./src/Solution1.java) | [Solution1Test.java](./test/Solution1Test.java) |
+| 2 | Post | [Solution2.java](./src/Solution2.java) | [Solution2Test.java](./test/Solution2Test.java) |
+| 3 | FunctionGame | [Solution3.java](./src/Solution3.java) | [Solution3Test.java](./test/Solution3Test.java) |
+| 4 | Notas | [Solution4.java](./src/Solution4.java) | [Solution4Test.java](./test/Solution4Test.java) |
+| 5 | Cotxe | [Solution5.java](./src/Solution5.java) | [Solution5Test.java](./test/Solution5Test.java) |
+| 6 | PostsStream | [Solution6.java](./src/Solution6.java) | [Solution6Test.java](./test/Solution6Test.java) |
+| 7 | FunctionGame2 | [Solution7.java](./src/Solution7.java) | [Solution7Test.java](./test/Solution7Test.java) |
+| 8 | Book | [Solution8.java](./src/Solution8.java) | [Solution8Test.java](./test/Solution8Test.java) |
+| 9 | Leds | [Solution9.java](./src/Solution9.java) | [Solution9Test.java](./test/Solution9Test.java) |
 | 10 | Array de leds | [Solution10.java](./src/Solution10.java) | [Solution10Test.java](./test/Solution10Test.java) |
 | 11 | LineSeparator | [Solution11.java](./src/Solution11.java) | [Solution11Test.java](./test/Solution11Test.java) |
 | 12 | AdvancedLineSeparator | [Solution12.java](./src/Solution12.java) | [Solution12Test.java](./test/Solution12Test.java) |
